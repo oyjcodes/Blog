@@ -4,7 +4,7 @@ date: 2018-11-07 15:55:28
 tags: 
       - Hexo
       - Blog
-categories: "Hexo教程"
+categories: "工具"
 ---
 ### Hexo部署命令的使用
 1. 在source\_posts文件夹下创建一个新的md文件
